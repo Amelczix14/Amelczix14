@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a second-year student at AGH in Krakow, majoring in Computer Science and Intelligent Systems.
 - 🌱 I’m currently learning Python, C# and machine learning
-- 📫 How to reach me: ameliaaa.adamczuk@gmail.com
+- 😄 I am a sports freak, and Polish vice Champion in rollerskating on 42 km 
 
 <!--
 **Amelczix14/Amelczix14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
