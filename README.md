@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a second-year student at AGH in Krakow, majoring in Computer Science and Intelligent Systems.
+I am a third-year student at AGH in Krakow, majoring in Computer Science and Intelligent Systems.
 - 🌱 I’m currently learning Python, C# and machine learning
 - 😄 I am a sports freak, and Polish vice Champion in rollerskating on 42 km 
 
