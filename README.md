@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a third-year student at AGH in Krakow, majoring in Computer Science and Intelligent Systems.
+I am a fourth-year student at AGH in Krakow, majoring in Computer Science and Intelligent Systems.
 - 🌱 I’m currently learning data processing and machine learning
-- 😄 I am a sports freak, and Polish vice Champion in roller skating on 42 km 
+- 😄 I am a sports freak, and Polish vice Champion in roller skating in 42 km 
 
 <!--
 **Amelczix14/Amelczix14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
